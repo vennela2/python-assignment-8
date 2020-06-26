@@ -1,0 +1,6 @@
+string="gitam universtity banglore"
+substring="banglore"
+if(string.find(substring)==-1):
+	print("substring not found in string")
+else:
+	print("substring found in string")

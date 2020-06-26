@@ -1,0 +1,6 @@
+string1='venny'
+string2='sunny'
+if(string1==string2):
+	print('strings are equal')
+else:
+	print('strings are not equal')

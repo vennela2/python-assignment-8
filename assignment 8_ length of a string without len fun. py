@@ -1,0 +1,5 @@
+string="refrigerator"
+add=0
+for i in string:
+	add=add+1
+print("length of the given string is",add)

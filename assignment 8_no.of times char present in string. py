@@ -1,0 +1,7 @@
+string="hello world"
+char=input("enter the character")
+count=0
+for i in string:
+	if(i==char):
+		count=count+1
+print("no.of times O appears in given string is",count)

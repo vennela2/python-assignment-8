@@ -1,0 +1,3 @@
+string=input("enter a string")
+print("string in upper case is",string.upper())
+print("string in lower case is",string.lower()))

@@ -1,0 +1,6 @@
+def string_length(str1):
+	add=0
+	for char in str1:
+		add=add+1
+	return add
+print(string_length('naira'))

@@ -1,0 +1,3 @@
+a="hruthik"
+b=a[:4]+a[5:]
+print(b)
